@@ -1,0 +1,13 @@
+.navigatie-glam{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.navigatie-glam li{
+    background-color: sandybrown;
+}
+
+.navigatie-glam a{
+    color:seashell;
+
+}
