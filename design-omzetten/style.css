@@ -11,3 +11,15 @@
     color:seashell;
 
 }
+.meta-glam{
+    background-color: seashell;
+}
+.navigatie-footer{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.navigatie-footer li{
+    background-color: slategray;
+}
+
